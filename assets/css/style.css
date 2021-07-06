@@ -62,11 +62,15 @@ body {
     background-size: cover;
 }
 #vip-home .vip-home_box p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+#vip-home .vip-home_box p span{
     font-weight: 900;
     font-size: 12px;
-    line-height: 22px;
     text-transform: uppercase;
-    color: #FFFFFF;
 }
 #vip-home .vip-home-subtitles{
     padding: 113px 0 0 0;
@@ -222,5 +226,5 @@ body {
     font-size: 16px;
     line-height: 22px;
     color: #000000;
-    margin-bottom: 14px;
+    margin-bottom: 34px;
 }
